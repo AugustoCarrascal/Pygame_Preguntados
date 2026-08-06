@@ -1,0 +1,101 @@
+pregunta;opcion_a;opcion_b;opcion_c;opcion_d;respuesta_correcta;categoria;dificultad;puntaje
+¿Qué selección ha ganado más Mundiales de fútbol?;Alemania;Brasil;Italia;Argentina;b;Deportes;facil;10
+¿Cuántos anillos tiene el logo de los Juegos Olímpicos?;4;5;6;7;b;Deportes;facil;10
+¿En qué ciudad juegan los Lakers?;Nueva York;Chicago;Los Ángeles;Miami;c;Deportes;facil;10
+¿Cómo se llama el estilo de natación más rápido?;Espalda;Pecho;Mariposa;Crol;d;Deportes;facil;10
+¿Cuántos tiempos tiene un partido de baloncesto de la NBA?;2;3;4;5;c;Deportes;facil;10
+¿En qué deporte destaca Tiger Woods?;Tenis;Golf;Boxeo;Automovilismo;b;Deportes;facil;10
+¿Qué ciudad alberga el torneo de Wimbledon?;París;Londres;Nueva York;Melbourne;b;Deportes;facil;10
+¿Cuál es el cinturón más alto en la mayoría de artes marciales?;Blanco;Verde;Negro;Rojo;c;Deportes;facil;10
+¿Cuántos puntos vale un tiro libre en baloncesto?;1;2;3;0;a;Deportes;facil;10
+¿En qué país se inventó el voleibol?;Canadá;Estados Unidos;Francia;Japón;b;Deportes;facil;10
+¿Quién es 'The G.O.A.T' del fútbol americano?;Tom Brady;Patrick Mahomes;Joe Montana;Peyton Manning;a;Deportes;media;20
+¿Cuántos jugadores hay en un equipo de voleibol?;5;6;7;11;b;Deportes;media;20
+¿En qué deporte se compite por la Copa Davis?;Fútbol;Rugby;Tenis;Golf;c;Deportes;media;20
+¿Cuánto dura un asalto de boxeo profesional?;2 min;3 min;5 min;4 min;b;Deportes;media;20
+¿Qué tenista es conocido como el rey de la tierra batida?;Federer;Djokovic;Nadal;Alcaraz;c;Deportes;media;20
+¿A qué distancia está la canasta de baloncesto del suelo?;2.80 m;3.05 m;3.15 m;3.50 m;b;Deportes;media;20
+¿Qué equipo de la F1 tiene más títulos de constructores?;Mercedes;Ferrari;Red Bull;McLaren;b;Deportes;media;20
+¿Cuántos jugadores por equipo juegan en waterpolo?;6;7;8;11;b;Deportes;media;20
+¿En qué país se encuentra el circuito de Monza?;España;Francia;Italia;Alemania;c;Deportes;media;20
+¿Quién ganó el mundial de fútbol de 1998?;Brasil;Alemania;Francia;Italia;c;Deportes;media;20
+¿Quién ostenta el récord de los 100 metros lisos?;Carl Lewis;Usain Bolt;Tyson Gay;Yohan Blake;b;Deportes;dificil;30
+¿En qué año se celebraron los primeros JJ.OO. modernos?;1890;1896;1900;1904;b;Deportes;dificil;30
+¿Qué país ganó el primer mundial de fútbol en 1930?;Brasil;Argentina;Uruguay;Italia;c;Deportes;dificil;30
+¿Qué ciclista ganó 5 Tours de Francia consecutivos?;Eddy Merckx;Miguel Induráin;Lance Armstrong;Chris Froome;b;Deportes;dificil;30
+¿Cuál es el puntaje máximo en una partida de bolos?;200;250;300;400;c;Deportes;dificil;30
+¿Quién fue el primer jugador en anotar 100 puntos en la NBA?;Michael Jordan;Wilt Chamberlain;Kobe Bryant;Shaq;b;Deportes;dificil;30
+¿Qué selección de rugby es conocida como los All Blacks?;Australia;Sudáfrica;Nueva Zelanda;Inglaterra;c;Deportes;dificil;30
+¿En qué ciudad se fundó el FC Barcelona?;Madrid;Barcelona;Londres;París;b;Deportes;dificil;30
+¿Cuál es el estilo de natación más lento?;Crol;Espalda;Braza;Mariposa;c;Deportes;dificil;30
+¿Qué equipo de béisbol ha ganado más Series Mundiales?;Dodgers;Yankees;Red Sox;Giants;b;Deportes;dificil;30
+¿Qué significa USB?;Universal Serial Bus;United Serial Bus;Ultra Speed Bus;Unit Serial Bus;a;Informática;facil;10
+¿Cuál es el buscador más usado en internet?;Bing;Yahoo;Google;DuckDuckGo;c;Informática;facil;10
+¿Qué empresa creó el iPhone?;Microsoft;Google;Apple;Samsung;c;Informática;facil;10
+¿Qué programa se usa comúnmente para hojas de cálculo?;Word;PowerPoint;Excel;Access;c;Informática;facil;10
+¿Cuál es el símbolo del correo electrónico?;#;&;@;%;c;Informática;facil;10
+¿Qué significa WWW?;World Wide Web;World Western Web;Wide World Web;Web World Wide;a;Informática;facil;10
+¿Cómo se llama la 'nube' de Google?;iCloud;OneDrive;Google Drive;Dropbox;c;Informática;facil;10
+¿Cuál es el atajo para copiar?;Ctrl+V;Ctrl+X;Ctrl+C;Ctrl+Z;c;Informática;facil;10
+¿Qué es un PDF?;Un juego;Un formato de documento;Un virus;Un hardware;b;Informática;facil;10
+¿Cuál es la red social de los 280 caracteres?;Facebook;Instagram;Twitter (X);TikTok;c;Informática;facil;10
+¿Qué lenguaje es el estándar para bases de datos?;Python;SQL;Java;C#;b;Informática;media;20
+¿Cuál es el sistema operativo móvil más usado?;iOS;Windows;Android;Symbian;c;Informática;media;20
+¿Qué significa HTTP?;HyperText Transfer Protocol;High Transfer Text;Home Tool Text;Hyper Terminal Transfer;a;Informática;media;20
+¿Quién fundó Microsoft?;Steve Jobs;Mark Zuckerberg;Bill Gates;Jeff Bezos;c;Informática;media;20
+¿Qué es Linux?;Un navegador;Un kernel/sistema operativo;Un procesador;Un antivirus;b;Informática;media;20
+¿Qué componente es el 'cerebro' del PC?;RAM;GPU;CPU;SSD;c;Informática;media;20
+¿Qué empresa desarrolló el lenguaje Java?;Microsoft;Sun Microsystems;Oracle;Apple;b;Informática;media;20
+¿Qué puerto se usa para video de alta definición?;USB-C;VGA;HDMI;Ethernet;c;Informática;media;20
+¿Cuál de estos es un lenguaje de bajo nivel?;Python;C;Ensamblador;Java;c;Informática;media;20
+¿Qué es una Cookie?;Un virus;Un archivo de datos de sitios;Un hardware;Un comando;b;Informática;media;20
+¿Qué significa CSS?;Cascading Style Sheets;Computer Style System;Creative Style Sheets;Control Style Sheets;a;Informática;dificil;30
+¿Qué puerto lógico usa el protocolo HTTP?;443;21;80;25;c;Informática;dificil;30
+¿Quién es el creador de Linux?;Linus Torvalds;Richard Stallman;Ken Thompson;Dennis Ritchie;a;Informática;dificil;30
+¿Cuál es la unidad mínima de información?;Byte;Bit;Kilobyte;Nibble;b;Informática;dificil;30
+¿Qué significa SQL?;Simple Query Language;Structured Query Language;Serial Query Language;Standard Query List;b;Informática;dificil;30
+¿En qué año se lanzó Windows 95?;1990;1995;1998;2000;b;Informática;dificil;30
+¿Qué es Docker?;Un editor de texto;Un contenedor;Un lenguaje;Un navegador;b;Informática;dificil;30
+¿Qué significa API?;Application Programming Interface;Apple Program Info;Applied Process Intel;Auto Program Interface;a;Informática;dificil;30
+¿Quién creó el lenguaje C?;Bjarne Stroustrup;Dennis Ritchie;James Gosling;Guido van Rossum;b;Informática;dificil;30
+¿Qué es el Phishing?;Un tipo de malware;Una técnica de engaño;Un servidor;Un lenguaje;b;Informática;dificil;30
+¿Quién fue el líder nazi en la 2da Guerra Mundial?;Stalin;Mussolini;Hitler;Churchill;c;Historia;facil;10
+¿En qué país están las Pirámides de Giza?;México;Egipto;Perú;Grecia;b;Historia;facil;10
+¿Quién descubrió América?;Magallanes;Marco Polo;Cristóbal Colón;Vasco da Gama;c;Historia;facil;10
+¿Qué país regaló la Estatua de la Libertad a EE.UU.?;Inglaterra;Francia;España;Alemania;b;Historia;facil;10
+¿Cómo se llamaba el barco de Darwin?;Titanic;Beagle;Santa María;Endeavour;b;Historia;facil;10
+¿Qué muro dividió una ciudad alemana?;Muro de China;Muro de Berlín;Muro de Adriano;Muro de Trump;b;Historia;facil;10
+¿Quién fue la 'Dama de Hierro'?;Angela Merkel;Margaret Thatcher;Indira Gandhi;Eva Perón;b;Historia;facil;10
+¿En qué continente nació la humanidad?;Asia;Europa;África;América;c;Historia;facil;10
+¿Qué ciudad fue destruida por un volcán en el 79 d.C.?;Roma;Atenas;Pompeya;Esparta;c;Historia;facil;10
+¿Quién fue el primer hombre en la Luna?;Yuri Gagarin;Neil Armstrong;Buzz Aldrin;Elon Musk;b;Historia;facil;10
+¿Qué nombre recibió la guerra entre EE.UU. y la URSS?;Guerra Civil;Guerra Fría;Guerra Santa;Gran Guerra;b;Historia;media;20
+¿En qué año terminó la Segunda Guerra Mundial?;1918;1939;1945;1950;c;Historia;media;20
+¿Quién fue el líder de la Revolución Cubana?;Che Guevara;Fidel Castro;Hugo Chávez;Pinochet;b;Historia;media;20
+¿Qué civilización usaba el alfabeto jeroglífico?;Romana;Griega;Egipcia;Inca;c;Historia;media;20
+¿En qué país ocurrió la Revolución Industrial?;EE.UU.;Francia;Gran Bretaña;Alemania;c;Historia;media;20
+¿Quién era el Dios del Sol para los Incas?;Viracocha;Inti;Pachacamac;Quetzalcóatl;b;Historia;media;20
+¿Qué documento puso fin a la 1ra Guerra Mundial?;Tratado de Versalles;Tratado de Tordesillas;Pacto de Varsovia;Carta Magna;a;Historia;media;20
+¿Quién fue el rey de Macedonia que conquistó Persia?;Pericles;Julio César;Alejandro Magno;Leónidas;c;Historia;media;20
+¿Cuál fue la capital del Imperio Romano de Oriente?;Roma;Atenas;Constantinopla;Cartago;c;Historia;media;20
+¿Qué filósofo fue maestro de Alejandro Magno?;Platón;Sócrates;Aristóteles;Séneca;c;Historia;media;20
+¿En qué año comenzó la Revolución Francesa?;1776;1789;1810;1812;b;Historia;dificil;30
+¿Quién fue el primer emperador romano?;Julio César;Augusto;Nerón;Calígula;b;Historia;dificil;30
+¿Qué batalla perdió Napoleón definitivamente?;Austerlitz;Waterloo;Borodino;Trafalgar;b;Historia;dificil;30
+¿Quién escribió el Manifiesto Comunista?;Adam Smith;Karl Marx;John Locke;Thomas Hobbes;b;Historia;dificil;30
+¿Cómo se llamaba la ruta comercial entre China y Europa?;Ruta del Oro;Ruta de la Seda;Ruta de las Especias;Ruta del Té;b;Historia;dificil;30
+¿Qué reina gobernó Inglaterra por 63 años en el siglo XIX?;Isabel I;Victoria;Ana;María Estuardo;b;Historia;dificil;30
+¿Cuál es la debilidad de Superman?;Fuego;Kryptonita;Magia;Plomo;b;Superhéroes;facil;10
+¿De qué color es la piel de Hulk?;Rojo;Azul;Gris;Verde;d;Superhéroes;facil;10
+¿Cómo se llama el alter ego de Batman?;Peter Parker;Tony Stark;Bruce Wayne;Steve Rogers;c;Superhéroes;facil;10
+¿Qué superhéroe usa un escudo de vibranium?;Iron Man;Thor;Capitán América;Spider-Man;c;Superhéroes;facil;10
+¿Cuál es la identidad secreta de Flash?;Barry Allen;Hal Jordan;Dick Grayson;Wally West;a;Superhéroes;facil;10
+¿Qué superhéroe es un Dios Nórdico?;Loki;Thor;Odín;Hércules;b;Superhéroes;facil;10
+¿Quién es el compañero juvenil de Batman?;Bucky;Robin;Kid Flash;Falcon;b;Superhéroes;facil;10
+¿Cómo se llama el reino de Black Panther?;Genosha;Wakanda;Atlantis;Themyscira;b;Superhéroes;facil;10
+¿Qué superhéroe tiene garras de adamantium?;Cyclops;Wolverine;Beast;Gambito;b;Superhéroes;facil;10
+¿Cuál es el nombre del villano principal de Thanos?;Darkseid;Galactus;Thanos;Ultron;c;Superhéroes;facil;10
+¿A qué equipo pertenecen Iron Man y el Capitán América?;X-Men;Los Vengadores;Liga de la Justicia;4 Fantásticos;b;Superhéroes;media;20
+¿Cómo se llama la tía de Peter Parker?;Martha;May;Mary Jane;Gwen;b;Superhéroes;media;20
+¿Qué metal recubre el esqueleto de Wolverine?;Vibranium;Adamantium;Uru;Titanio;b;Superhéroes;media;20
+¿Quién es el archienemigo de Batman?;Pingüino;Acertijo;Joker;Lex Luthor;c;Superhéroes;media;20

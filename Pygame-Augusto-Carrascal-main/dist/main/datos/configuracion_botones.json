@@ -1,0 +1,395 @@
+{
+    "INICIO": [
+        {
+            "id": "comenzar",
+            "rect": [
+                250,
+                250,
+                300,
+                60
+            ],
+            "texto": "COMENZAR",
+            "color": [
+                50,
+                200,
+                50
+            ]
+        },
+        {
+            "id": "salir_inicio",
+            "rect": [
+                250,
+                350,
+                300,
+                60
+            ],
+            "texto": "SALIR",
+            "color": [
+                200,
+                50,
+                50
+            ]
+        }
+    ],
+    "SELECCION_USUARIO": [
+        {
+            "id": "usuario_1",
+            "rect": [
+                250,
+                250,
+                300,
+                60
+            ],
+            "texto": "USUARIO 1",
+            "color": [
+                50,
+                100,
+                200
+            ]
+        },
+        {
+            "id": "usuario_2",
+            "rect": [
+                250,
+                350,
+                300,
+                60
+            ],
+            "texto": "USUARIO 2",
+            "color": [
+                50,
+                100,
+                200
+            ]
+        }
+    ],
+    "MENU": [
+        {
+            "id": "jugar",
+            "rect": [
+                250,
+                150,
+                300,
+                60
+            ],
+            "texto": "JUGAR",
+            "color": [
+                50,
+                100,
+                200
+            ]
+        },
+        {
+            "id": "estadisticas",
+            "rect": [
+                250,
+                230,
+                300,
+                60
+            ],
+            "texto": "ESTADISTICAS",
+            "color": [
+                255,
+                223,
+                0
+            ]
+        },
+        {
+            "id": "configuracion",
+            "rect": [
+                250,
+                310,
+                300,
+                60
+            ],
+            "texto": "CONFIGURACION",
+            "color": [
+                50,
+                100,
+                200
+            ]
+        },
+        {
+            "id": "salir_menu",
+            "rect": [
+                250,
+                390,
+                300,
+                60
+            ],
+            "texto": "VOLVER",
+            "color": [
+                200,
+                50,
+                50
+            ]
+        }
+    ],
+    "ESTADISTICAS": [
+        {
+            "id": "volver",
+            "rect": [
+                250,
+                480,
+                300,
+                60
+            ],
+            "texto": "VOLVER",
+            "color": [
+                200,
+                200,
+                200
+            ]
+        }
+    ],
+    "CONFIGURACION": [
+        {
+            "id": "tdah",
+            "rect": [
+                250,
+                170,
+                300,
+                60
+            ],
+            "texto": "MODO TDA/H",
+            "color": [
+                50,
+                100,
+                200
+            ]
+        },
+        {
+            "id": "reiniciar_config",
+            "rect": [
+                250,
+                250,
+                300,
+                60
+            ],
+            "texto": "REINICIAR ESTADISTICAS",
+            "color": [
+                200,
+                50,
+                50
+            ]
+        },
+        {
+            "id": "volver",
+            "rect": [
+                250,
+                480,
+                300,
+                60
+            ],
+            "texto": "VOLVER AL MENÚ",
+            "color": [
+                200,
+                200,
+                200
+            ]
+        }
+    ],
+    "JUEGO": [
+        {
+            "id": "enunciado",
+            "rect": [
+                50,
+                50,
+                700,
+                150
+            ],
+            "texto": "DINAMICO",
+            "color": [
+                255,
+                223,
+                0
+            ]
+        },
+        {
+            "id": "opcion_a",
+            "rect": [
+                50,
+                350,
+                350,
+                60
+            ],
+            "texto": "DINAMICO",
+            "color": [
+                50,
+                100,
+                200
+            ]
+        },
+        {
+            "id": "opcion_b",
+            "rect": [
+                450,
+                350,
+                350,
+                60
+            ],
+            "texto": "DINAMICO",
+            "color": [
+                50,
+                100,
+                200
+            ]
+        },
+        {
+            "id": "opcion_c",
+            "rect": [
+                50,
+                430,
+                350,
+                60
+            ],
+            "texto": "DINAMICO",
+            "color": [
+                50,
+                100,
+                200
+            ]
+        },
+        {
+            "id": "opcion_d",
+            "rect": [
+                450,
+                430,
+                350,
+                60
+            ],
+            "texto": "DINAMICO",
+            "color": [
+                50,
+                100,
+                200
+            ]
+        },
+        {
+            "id": "volver_juego",
+            "rect": [
+                10,
+                540,
+                120,
+                40
+            ],
+            "texto": "VOLVER",
+            "color": [
+                200,
+                50,
+                50
+            ]
+        }
+    ],
+    "VICTORIA": [
+        {
+            "id": "volver_desde_victoria",
+            "rect": [
+                250,
+                450,
+                300,
+                60
+            ],
+            "texto": "VOLVER AL MENÚ",
+            "color": [
+                50,
+                200,
+                50
+            ]
+        }
+    ],
+    "COMODIN": [
+        {
+            "id": "cat_deportes",
+            "rect": [
+                200,
+                150,
+                400,
+                60
+            ],
+            "texto": "Deportes",
+            "color": [
+                50,
+                100,
+                200
+            ]
+        },
+        {
+            "id": "cat_informatica",
+            "rect": [
+                200,
+                230,
+                400,
+                60
+            ],
+            "texto": "Informática",
+            "color": [
+                50,
+                200,
+                50
+            ]
+        },
+        {
+            "id": "cat_historia",
+            "rect": [
+                200,
+                310,
+                400,
+                60
+            ],
+            "texto": "Historia",
+            "color": [
+                200,
+                50,
+                50
+            ]
+        },
+        {
+            "id": "cat_superheroes",
+            "rect": [
+                200,
+                390,
+                400,
+                60
+            ],
+            "texto": "Superhéroes",
+            "color": [
+                200,
+                50,
+                50
+            ]
+        }
+    ],
+    "SISTEMA": [
+        {
+            "id": "volumen_subir",
+            "rect": [
+                720,
+                20,
+                40,
+                40
+            ],
+            "texto": "+",
+            "color": [
+                50,
+                100,
+                200
+            ]
+        },
+        {
+            "id": "volumen_bajar",
+            "rect": [
+                670,
+                20,
+                40,
+                40
+            ],
+            "texto": "-",
+            "color": [
+                50,
+                100,
+                200
+            ]
+        }
+    ]
+}
